@@ -1,19 +1,19 @@
 ### Merhaba 👋
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBristolMyers&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fherlockexe&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-[![BristolMyers github stats](https://github-readme-stats.vercel.app/api?username=BristolMyers&show_icons=true&theme=cobalt&count_private=true)](https://github.com/BristolMyers)
+[![Herlock github stats](https://github-readme-stats.vercel.app/api?username=herlockexe&show_icons=true&theme=cobalt&count_private=true)](https://github.com/herlockexe)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BristolMyers&layout=compact&theme=cobalt)](https://github.com/BristolMyers)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BristolMyers&layout=compact&theme=cobalt)](https://github.com/herlockexe)
 <!--
-**BristolMyers/BristolMyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Herlock/Herlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Burada başlamanız için birkaç fikir var:
 
-- 🔭 Şu anda üzerinde çalışıyorum ...
-- 🌱 Şu anda öğreniyorum ...
+- 🔭 Şu anda Userbot üzerinde çalışıyorum ...
+- 🌱 Şu anda Java öğreniyorum ...
 - 👯 Üzerinde ortak çalışmak istiyorum ...
 - 🤔 İle yardım arıyorum ...
 - 💬 Bana sor ...
